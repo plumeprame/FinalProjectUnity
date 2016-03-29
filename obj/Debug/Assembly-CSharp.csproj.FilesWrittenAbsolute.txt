@@ -1,0 +1,15 @@
+/Users/non/Unity/fuck/Temp/bin/Debug/UnityEngine.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/UnityEditor.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/non/Unity/fuck/Temp/bin/Debug/Mono.Cecil.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/Unity.DataContract.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/non/Unity/fuck/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/Mono.Cecil.Mdb.dll
