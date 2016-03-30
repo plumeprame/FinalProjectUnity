@@ -13,3 +13,7 @@
 /Users/non/Unity/fuck/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/non/Unity/fuck/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/non/Unity/fuck/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/non/Unity/fuck/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/non/Unity/fuck/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/non/Unity/fuck/obj/Debug/Assembly-CSharp.dll
+/Users/non/Unity/fuck/obj/Debug/Assembly-CSharp.dll.mdb
